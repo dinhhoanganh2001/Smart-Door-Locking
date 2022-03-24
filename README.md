@@ -1,4 +1,4 @@
-# Smart Door
+# Smart Door Locking
 Multi-disciplinary Project Specializing in AI - Sem212
 ## Summary
 The project contains 3 major modules:
