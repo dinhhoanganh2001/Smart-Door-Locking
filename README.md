@@ -18,7 +18,7 @@ The problem can be described as:
 ### Environment
 #### For AI module and gateway:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 
